@@ -22,12 +22,19 @@ E.g., /Path_to_folder/user_agent_generator
 Then, you can type ruby bin/user_agent_generator into the command line followed by several options
 
 -w --windows This will generate a string assuming a Windows, 64-bit OS
+
 -a --android This will generate a string assuming an Android operating system
+
 -i --iOS     This will generate a string assuming an iPad is being used
+
 -c --chrome  This will generate a string using Chrome
+
 -f --firefox This will generate a string using Firefox
+
 -s --safari  This will generate a string using Safari
+
 -v --version This allows you to specify what version you are using
+
 -h --help    This will print out a help prompt
 
 Do not use more than one browser option, or more than one OS option.
