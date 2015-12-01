@@ -27,10 +27,8 @@ module UserAgentGenerator
 
     def create_new_file
       path = PATH
-      dir = File.dirname(path)
-
-      unless File.directory?(dir)
-        FileUtils.mkdir_p(dir)
+      unless File.directory?(Dir.pwd + path)
+        FileUtils.mkdir_p(path)
       end
 
       path << FILENAME
