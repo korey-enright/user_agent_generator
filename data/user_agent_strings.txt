@@ -1,0 +1,9 @@
+Windows / Chrome 48: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48 Safari/537.36
+Windows / Chrome 48: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48 Safari/537.36
+Windows / Chrome 40: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40 Safari/537.36
+Windows / Chrome 40: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40 Safari/537.36
+Windows / Chrome 38: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38 Safari/537.36
+Android / Firefox 30: Mozilla/5.0 (Android; Mobile; rv:30.0) Gecko/ 30Firefox/30
+Windows / Chrome 38: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38 Safari/537.36
+iOS / Safari 8 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/8 Mobile/11B554a Safari/9537.53
+iOS / Safari 8 (iPad; CPU OS 7_0_4 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/8 Mobile/11B554a Safari/9537.53
