@@ -64,11 +64,11 @@ module UserAgentGenerator
       os_index = string.index('()') + 1
       if @options[:windows]
         string = string.insert(os_index, "Windows NT 6.1; WOW64; rv:#{version[0, 2]}.0")
-        gecko_index = string.index('Gecko/') + 7
+        gecko_index = string.index('Gecko/') + 6
         string.insert(gecko_index, '20100101')
       elsif @options[:android]
         string = string.insert(os_index, "Android; Mobile; rv:#{version[0, 2]}.0")
-        gecko_index = string.index('Gecko/') + 7
+        gecko_index = string.index('Gecko/') + 6
         string.insert(gecko_index, "#{version}")
       else
         string
